@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 // File        : alu.sv
-// Author      : Kartik Malipatil / 1BM23EC117
+// Author      : harshavardhan k / 1BM23EC098
 // Created     : 2026-02-03
 // Module      : alu
 // Project     : SystemVerilog and Verification (23EC6PE2SV)
